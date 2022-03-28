@@ -56,3 +56,9 @@ Use [this video](https://youtu.be/rgbCcBNZcdQ?t=207) or any like it
 9. You should see `base:main` and `compare:main` buttons. On the `compare:main` button and set it to `compare:develop`
 
 10. After checking your changes, click on `Create pull request`
+
+11. Fill in the details in `Title`. The title should be what the pull request is about
+
+12. Set reviewer to `Emmanuel Nkrumah Sarpong`
+
+13. Click create pull request.
