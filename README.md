@@ -62,3 +62,5 @@ Use [this video](https://youtu.be/rgbCcBNZcdQ?t=207) or any like it
 12. Set reviewer to `Emmanuel Nkrumah Sarpong`
 
 13. Click create pull request.
+
+And that is it! you are done!
